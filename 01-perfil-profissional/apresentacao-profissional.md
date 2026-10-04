@@ -1,7 +1,6 @@
 # Apresentação Profissional
 
-Profissional de Redes e Telecomunicações com experiência em arquitetura, implantação, operação, troubleshooting, expansão e gestão de ambientes ISP, corporativos, Data Center e Cloud.
-
-Atuação com BGP, OSPF, MPLS, Segment Routing, GPON/XGPON/XGS-PON, DWDM, FTTH, SD-WAN, segurança, Data Center, AWS e Azure.
-
-Minha evolução profissional combina projeto, engenharia, gestão e automação. Meu foco é transformar conhecimento técnico em disponibilidade, capacidade, segurança, eficiência operacional e crescimento sustentável.
+Sou profissional de telecomunicações e redes, com experiência em infraestrutura de redes corporativas e de operadoras, trabalhando com tecnologias como BGP, OSPF, MPLS, Segment Routing, GPON/XGPON, DWDM, redes IP, Data Center, segurança e ambientes híbridos.
+Ao longo da minha experiência, participei de projetos de expansão de rede, planejamento de capacidade, implantação de infraestrutura, troubleshooting e sustentação de ambientes críticos.
+Também tenho experiência com fornecedores, documentação, acompanhamento de projetos e análise de indicadores.
+Para uma posição de Gerente de Redes, acredito que posso combinar minha experiência técnica com gestão operacional, planejamento, definição de padrões, acompanhamento de SLA e desenvolvimento da equipe..
