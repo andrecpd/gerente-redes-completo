@@ -1,78 +1,78 @@
-# Projeto de Estudos + Gestão — Gerente de Redes de Telecomunicações
+# Gerente de Redes de Telecomunicações | ISP | NetDevOps
 
-Este repositório foi estruturado como um projeto real de rede para preparação técnica e gerencial para uma posição de **Gerente de Redes de Telecomunicações / ISP**.
+Portfólio profissional e projeto de estudos voltado à atuação como **Projetista, Engenheiro e Gerente de Redes**, com foco em **ISP, FTTH, Backbone, NOC, Data Center, Cloud Híbrida, Segurança e Automação**.
 
-## Objetivos
+## Visão profissional
 
-- Revisar tecnologias críticas de redes ISP e corporativas.
-- Estruturar respostas para entrevistas técnicas e gerenciais.
-- Demonstrar pensamento de gestão, planejamento, operação e melhoria contínua.
-- Praticar organização usando Epics, User Stories, Tasks, Kanban e critérios de aceite.
-- Criar material reutilizável para entrevistas, apresentações e estudos.
+Minha trajetória combina quatro perspectivas:
 
-## Escopo técnico
+1. **Projetista de Redes** — desenho, dimensionamento, topologia, redundância e crescimento.
+2. **Engenheiro de Redes** — implantação, operação, troubleshooting, roteamento e redes ópticas.
+3. **Gerente de Redes** — liderança, SLA, NOC, fornecedores, CAPEX/OPEX, KPIs e planejamento.
+4. **Redes + Novas Tecnologias** — Cloud, SD-WAN, SASE, Terraform, Ansible, GitHub Actions e NetDevOps.
 
-- FTTH, GPON, XG-PON / XGS-PON
-- BGP, OSPF, MPLS e Segment Routing
-- DWDM e backbone óptico
-- Redes corporativas e Data Center
-- NOC, incidentes e troubleshooting
-- Capacity Planning e alta disponibilidade
-- Segurança de redes, VPN e segmentação
-- Automação e observabilidade
-
-## Escopo gerencial
-
-- Liderança técnica
-- Gestão de NOC
-- SLA, MTTR e disponibilidade
-- Gestão de incidentes, problemas e mudanças
-- ITIL, Scrum e Kanban
-- Gestão de fornecedores
-- KPIs executivos
-- Planejamento de investimentos
-- Riscos e continuidade
-- Plano de 90 dias
+> Como projetista, desenho como a rede deve ser construída.  
+> Como engenheiro, entendo como ela funciona, implanto, opero e resolvo problemas.  
+> Como gerente, transformo conhecimento técnico em decisões, prioridades, investimentos e resultados.  
+> Com automação e NetDevOps, busco tornar a operação mais padronizada, escalável e eficiente.
 
 ## Estrutura
 
-- `01-apresentacao-profissional/`
-- `02-gestao-de-redes/`
-- `03-ftth-gpon/`
-- `04-backbone/`
-- `05-capacity-planning/`
-- `06-troubleshooting/`
-- `07-seguranca/`
-- `08-gestao-projetos/`
-- `09-lideranca/`
-- `10-indicadores-executivos/`
-- `11-plano-90-dias/`
-- `12-simulacao-entrevista/`
-- `13-backlog-projeto/`
-- `.github/ISSUE_TEMPLATE/`
+- `01-perfil-profissional/` — apresentação, projetista, engenheiro e gerente
+- `02-arquitetura-isp/` — arquitetura, POP, redundância e capacity planning
+- `03-roteamento/` — BGP, OSPF, MPLS, Segment Routing e QoS
+- `04-redes-opticas/` — FTTH, GPON, XGS-PON, DWDM e expansão
+- `05-operacao-noc/` — NOC, incidentes, troubleshooting, SLA e RCA
+- `06-gestao/` — liderança, fornecedores, KPIs, CAPEX/OPEX e decisão
+- `07-metodologias/` — ITIL, Scrum, Kanban e Change Management
+- `08-seguranca/` — firewalls, VPN, segmentação, Zero Trust e SASE
+- `09-data-center/` — arquitetura, ACI/Nexus, servidores e cabeamento
+- `10-cloud-hibrida/` — Azure, AWS, VPN, ExpressRoute e arquitetura híbrida
+- `11-automacao/` — Terraform, Ansible, GitHub Actions, IaC e NetDevOps
+- `12-novas-tecnologias/` — SD-WAN, observabilidade, 4G/5G privado e evolução
+- `13-cases/` — cases profissionais e cenários de entrevista
+- `14-entrevista-gerente-redes/` — respostas, plano de 90 dias e perguntas
+- `.github/ISSUE_TEMPLATE/` — templates para estudos, incidentes e projetos
 
-## Método de estudo
+## Tecnologias-chave
 
-Para cada tema:
+**Routing:** BGP, OSPF, MPLS, Segment Routing, LDP, RSVP/TE, IPv4/IPv6, VRF, QoS  
+**Óptica:** GPON, XGPON, XGS-PON, FTTH, DWDM  
+**Segurança:** Cisco ASA/Firepower, Fortinet, Palo Alto, VPN IPsec, SASE, Zero Trust  
+**Data Center:** Cisco Nexus, ACI, servidores, virtualização, load balancing, cabeamento  
+**Cloud:** Azure VNet, VPN Gateway, ExpressRoute, AWS VPC, Transit Gateway e VPN  
+**Automação:** Terraform, Ansible, Git, GitHub Actions, Docker, Kubernetes e CI/CD
 
-1. Conceito
-2. Aplicação prática
-3. Risco
-4. Indicador
-5. Decisão gerencial
-6. Resposta de entrevista
+## KPIs de gestão
 
-## Fluxo Kanban
+- Uptime e disponibilidade
+- SLA
+- MTTR e MTBF
+- Incidentes e reincidência
+- Utilização de backbone e uplinks
+- Ocupação PON/OLT
+- Latência, jitter e perda
+- Custo por Mbps
+- Clientes impactados
+- Churn técnico
+- CAPEX/OPEX
+- Forecast de capacidade
 
-`BACKLOG -> TO DO -> IN PROGRESS -> REVIEW -> DONE`
+## Metodologia de trabalho
 
-## Definição de pronto
+Cada tema deve responder:
 
-Uma atividade é considerada concluída quando:
+1. Qual é o conceito?
+2. Como aplico na prática?
+3. Qual o risco?
+4. Qual indicador acompanha o resultado?
+5. Qual decisão gerencial pode ser tomada?
+6. Como eu explicaria isso em uma entrevista?
 
-- o conceito foi revisado;
-- existe pelo menos um exemplo prático;
-- há uma resposta curta para entrevista;
-- o impacto gerencial está documentado;
-- existe ao menos um KPI ou critério de validação.
-# gerente-redes-completo
+## Kanban sugerido
+
+`BACKLOG → PLANEJADO → EM ESTUDO → EM EXECUÇÃO → VALIDAÇÃO → CONCLUÍDO`
+
+## Objetivo
+
+Demonstrar capacidade de **desenhar, operar, escalar e gerenciar uma rede de telecomunicações**, conectando profundidade técnica com visão de negócio, liderança e automação.
