@@ -8,6 +8,7 @@ Esta pasta reúne metodologias utilizadas para organizar projetos, operação e 
 2. [ITIL aplicado a Redes](itil.md)
 3. [Kanban](kanban.md)
 4. [Scrum aplicado a Projetos de Redes](scrum.md)
+5. [Gestão de Projetos de Redes](gestao-projetos.md)
 
 ## Como utilizar
 
@@ -19,6 +20,7 @@ Cada metodologia atende a uma necessidade diferente:
 | Gestão de Mudanças | Alterações controladas em produção |
 | Kanban | Fluxo contínuo e acompanhamento de tarefas |
 | Scrum | Projetos com entregas incrementais |
+| Gestão de Projetos | Escopo, prazo, custo, risco e responsabilidades |
 
 ## Visão Gerencial
 
