@@ -1,13 +1,54 @@
-# Case — Incidente de Backbone
+# Case — Incidente Crítico de Backbone
 
-## Situação
-Degradação ou indisponibilidade em enlace crítico de backbone.
+## Cenário
+Degradação ou indisponibilidade em um enlace crítico de backbone, com impacto potencial em múltiplos clientes e serviços.
 
-## Engenheiro
-Validar interfaces, erros, óptica, BGP/OSPF, rotas, QoS, latência, perda, logs e caminhos alternativos.
+## Diagnóstico Técnico
+Verificar:
 
-## Gerente
-Classificar severidade, mobilizar NOC/campo/fornecedor, acompanhar SLA, clientes impactados e comunicação executiva.
+1. Estado das interfaces
+2. Erros, CRC e drops
+3. Potência óptica
+4. CPU e memória
+5. BGP e OSPF
+6. Tabela de rotas
+7. Latência e perda
+8. QoS
+9. Logs
+10. Caminhos alternativos
 
-## Pós-incidente
-RCA, ações corretivas, prevenção, owner, prazo e acompanhamento do risco residual.
+## Contenção
+- Redirecionar tráfego quando possível
+- Ativar caminho redundante
+- Escalar equipe de campo
+- Acionar fornecedor
+- Proteger serviços críticos
+
+## Gestão do Incidente
+- Definir severidade
+- Criar sala de crise
+- Coordenar NOC, campo e engenharia
+- Identificar clientes afetados
+- Acompanhar SLA
+- Manter comunicação executiva
+
+## Pós-Incidente
+- RCA
+- Timeline
+- Causa raiz
+- Ação corretiva
+- Ação preventiva
+- Responsável
+- Prazo
+- Risco residual
+
+## KPIs
+- MTTA
+- MTTR
+- Disponibilidade
+- SLA
+- Clientes impactados
+- Reincidência
+
+## Resposta para entrevista
+> Em um incidente crítico de backbone, primeiro estabilizo o ambiente e identifico o impacto. Tecnicamente valido interfaces, óptica, roteamento, latência, perda e caminhos alternativos. Como gestor, coordeno NOC, campo e fornecedores, acompanho SLA e comunicação. Após a recuperação, conduzo RCA e ações preventivas para evitar recorrência.
